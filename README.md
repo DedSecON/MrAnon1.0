@@ -26,7 +26,7 @@ Siga os passos abaixo!
 > pkg install nodejs
 > pkg install npm
 > git clone https://github.com/DedSecON/MrAnon1.0.git
-> cd zzeus
+> cd MrAnon1.0
 > bash install.sh
 ```
 
