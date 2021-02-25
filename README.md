@@ -1,4 +1,3 @@
-### OPAAA ZEUS AKI GARAIO ⚡
 
 ## Ferramentas
 
@@ -26,7 +25,7 @@ Siga os passos abaixo!
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/vinizeus/zzeus.git
+> git clone https://github.com/DedSecON/MrAnon1.0.git
 > cd zzeus
 > bash install.sh
 ```
@@ -36,7 +35,7 @@ Siga os passos abaixo!
 ```bash
 > npm start
 > leia o códico QR e após isso de um exit
-> cd ptzeus
+> cd MrAnon1.0
 > npm i -g pm2
 > pm2 start index.js
 > pm2 monit
@@ -45,6 +44,6 @@ Siga os passos abaixo!
 
 ## CONTATOS
 
-- Whatsapp: wa.me/+556993899391
-- Instagram: @zultra_edits
-- YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
+- Whatsapp: wa.me/5519996148526
+- Instagram: 
+- YouTube: 
